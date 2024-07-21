@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/urvee/CLionProjects/Structure 2/cmake-build-debug"
+			"value" : "c:/Users/urvee/CLionProjects/Pointer/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/urvee/CLionProjects/Structure 2/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/urvee/CLionProjects/Pointer/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/urvee/CLionProjects/Structure 2"
+			"value" : "C:/Users/urvee/CLionProjects/Pointer"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Structure_2"
+			"value" : "C:/Program Files (x86)/Pointer"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -731,7 +731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Structure_2"
+			"value" : "Pointer"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1126,7 +1126,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Structure_2_BINARY_DIR",
+			"name" : "Pointer_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1135,10 +1135,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/urvee/CLionProjects/Structure 2/cmake-build-debug"
+			"value" : "C:/Users/urvee/CLionProjects/Pointer/cmake-build-debug"
 		},
 		{
-			"name" : "Structure_2_IS_TOP_LEVEL",
+			"name" : "Pointer_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1150,7 +1150,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Structure_2_SOURCE_DIR",
+			"name" : "Pointer_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/urvee/CLionProjects/Structure 2"
+			"value" : "C:/Users/urvee/CLionProjects/Pointer"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

@@ -1,0 +1,3 @@
+C:/Users/urvee/CLionProjects/Pointer/cmake-build-debug/CMakeFiles/Pointer.dir
+C:/Users/urvee/CLionProjects/Pointer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/urvee/CLionProjects/Pointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

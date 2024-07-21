@@ -1,0 +1,3 @@
+C:/Users/urvee/CLionProjects/Structure2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-5ghuy7/CMakeFiles/cmTC_e3c2b.dir
+C:/Users/urvee/CLionProjects/Structure2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-5ghuy7/CMakeFiles/edit_cache.dir
+C:/Users/urvee/CLionProjects/Structure2/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-5ghuy7/CMakeFiles/rebuild_cache.dir

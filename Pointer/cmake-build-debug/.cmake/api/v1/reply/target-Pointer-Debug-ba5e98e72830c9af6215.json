@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Structure_2.exe"
+			"path" : "Pointer.exe"
 		},
 		{
-			"path" : "Structure_2.pdb"
+			"path" : "Pointer.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "Structure_2::@6890427a1f51a3e7e1df",
+	"id" : "Pointer::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "Structure_2",
-	"nameOnDisk" : "Structure_2.exe",
+	"name" : "Pointer",
+	"nameOnDisk" : "Pointer.exe",
 	"paths" : 
 	{
 		"build" : ".",
